@@ -1,2 +1,6 @@
 # rocketry-flight-logs
-Open repository of rocketry flight computer and altimeter log files.
+
+> **Superseded.** This repository is no longer maintained and is being
+> archived. The flight computer and altimeter logs it was meant to hold now
+> live in [burnoutlabs/post-flight-analysis](https://github.com/burnoutlabs/post-flight-analysis),
+> alongside the tooling that parses and analyses them.
